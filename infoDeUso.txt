@@ -1,0 +1,33 @@
+Chatbase es una plataforma que permite crear y personalizar chatbots basados en modelos de lenguaje, como los desarrollados por OpenAI. Ofrece funcionalidades para configurar un chatbot de manera amigable y sin necesidad de experiencia técnica avanzada. Aquí te explico cómo podrías usar Chatbase e integrarlo en tu sitio web:
+
+Pasos para usar Chatbase e integrarlo a tu sitio:
+Registro y Creación del Bot:
+
+Ve a Chatbase y regístrate con tu correo electrónico.
+Una vez registrado, crea un nuevo chatbot seleccionando las características deseadas, como el lenguaje y los datos de entrenamiento específicos.
+Configuración del Chatbot:
+
+Proporciona la información necesaria para personalizar tu bot, como las preguntas frecuentes, el tono de respuesta, y, si lo deseas, conecta la API de OpenAI para usar modelos avanzados.
+Define respuestas automáticas para preguntas comunes y personaliza las respuestas del bot.
+Obtener el código de integración:
+
+Una vez que hayas configurado tu chatbot, Chatbase te proporcionará un script de integración.
+Este código es un script de JavaScript que podrás copiar y pegar directamente en tu sitio web.
+Incorporar el código en tu sitio web:
+
+Agrega el código de integración en el <body> de tu archivo HTML, o mejor aún, en un archivo de JavaScript externo si deseas mantener tu código ordenado.
+Ejemplo de cómo podría verse el script:
+html
+Copiar código
+<script src="https://www.chatbase.co/js/embed.js" data-chatbase-id="YOUR_CHATBASE_ID"></script>
+Personalizar la apariencia:
+
+Chatbase permite personalizar la apariencia del widget de chat para que coincida con el estilo de tu página web. Esto se puede hacer a través de la configuración en la plataforma o mediante CSS adicional.
+Beneficios de integrar Chatbase:
+Interacción automatizada con los visitantes: Ideal para una inmobiliaria, ya que puede responder preguntas sobre propiedades, horarios de visita, precios, etc.
+Facilidad de uso: No necesitas conocimientos de programación avanzados para integrar y configurar el bot.
+Soporte multilingüe: Puedes configurar el chatbot para responder en español u otros idiomas.
+Nota importante:
+Para una integración completa y personalización avanzada, podrías necesitar ajustar el comportamiento del chatbot mediante la API de Chatbase y usar JavaScript para manejar eventos de usuario.
+
+Si necesitas ayuda con un ejemplo práctico o cómo agregar funciones específicas al chatbot para tu sitio de una inmobiliaria, házmelo saber.
